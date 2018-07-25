@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/GraphicMotion"/>
+    <qresource prefix="/images">
+        <file alias="circular">Resources/圆.png</file>
+        <file alias="rectangle">Resources/矩形.png</file>
+        <file alias="slow">Resources/快退.png</file>
+        <file alias="start">Resources/播放.png</file>
+        <file alias="screenshot">Resources/截图.png</file>
+        <file alias="speed">Resources/快进.png</file>
+        <file alias="triangle">Resources/三角.png</file>
+        <file alias="pause">Resources/暂停.png</file>
+        <file alias="stop">Resources/停止.png</file>
+    </qresource>
+</RCC>
